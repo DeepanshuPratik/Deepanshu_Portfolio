@@ -26,6 +26,7 @@ export default createSchema({
     experiences,
     education,
     contact,
+    brands,
     works,
     workExperience,
   ]),
