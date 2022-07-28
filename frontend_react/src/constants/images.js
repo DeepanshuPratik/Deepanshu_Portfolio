@@ -5,6 +5,7 @@ import cpp from '../assets/cpp.png';
 import css from '../assets/css.png';
 import figma from '../assets/figma.png';
 import flutter from '../assets/flutter.png';
+import android from '../assets/android-google.gif';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
@@ -43,6 +44,7 @@ export default {
   css,
   figma,
   flutter,
+  android,
   git,
   graphql,
   html,
